@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Portfolio
 
 A modern, responsive portfolio website built with Bootstrap 5, Font Awesome, and Google Fonts.
@@ -82,3 +83,6 @@ To deploy this portfolio:
 ## License
 
 This project is open source and available under the MIT License.
+=======
+# MYPORTFOLIO
+>>>>>>> fb4e85f80d7f06c3b404ce81b01abbc1287f30e6
